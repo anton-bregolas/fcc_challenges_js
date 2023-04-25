@@ -9,15 +9,15 @@ Lesson 5 tasks @ CodeWars:
 https://www.codewars.com/collections/lesson-5-practice-challenges-number-fullstackroadmap
 ==================================================================
 
-## L5.T1 Multiply (debug)
+## L5.T01 Multiply (debug)
 
 This code does not execute properly. Try to figure out why.
 
-## L5.T2 Even or Odd
+## L5.T02 Even or Odd
 
 Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
 
-## L5.T3 Sum of positive
+## L5.T03 Sum of positive
 
 You get an array of numbers, return the sum of all of the positives ones.
 
@@ -25,15 +25,15 @@ Example [1,-4,7,12] => 1 + 7 + 12 = 20
 
 Note: if there is nothing to sum, the sum is default to 0.
 
-## L5.T4 Remove First and Last Character
+## L5.T04 Remove First and Last Character
 
 It's pretty straightforward. Your goal is to create a function that removes the first and last characters of a string. You're given one parameter, the original string. You don't have to worry with strings with less than two characters.
 
-## L5.T5 Return Negative
+## L5.T05 Return Negative
 
 In this simple assignment you are given a number and have to make it negative. But maybe the number is already negative?
 
-## L5.T6 String repeat
+## L5.T06 String repeat
 
 Write a function that accepts an integer n and a string s as parameters, 
 and returns a string of s repeated exactly n times.
@@ -42,7 +42,7 @@ Examples (input -> output)
 6, "I"     -> "IIIIII"
 5, "Hello" -> "HelloHelloHelloHelloHello"
 
-## L5.T7 Remove String Spaces
+## L5.T07 Remove String Spaces
 
 Write a function that removes the spaces from the string, then return the resultant string.
 
@@ -53,7 +53,7 @@ Input -> Output
 "8 8 Bi fk8h B 8 BB8B B B  B888 c hl8 BhB fd" -> "88Bifk8hB8BB8BBBB888chl8BhBfd"
 "8aaaaa dddd r     " -> "8aaaaaddddr"
 
-## L5.T8 Grasshopper - Summation
+## L5.T08 Grasshopper - Summation
 
 Summation
 Write a program that finds the summation of every number from 1 to num. The number will always be a positive integer greater than 0.
@@ -63,7 +63,7 @@ For example (Input -> Output):
 2 -> 3 (1 + 2)
 8 -> 36 (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8)
 
-## L5.T9 Find the smallest integer in the array
+## L5.T09 Find the smallest integer in the array
 
 DESCRIPTION:
 Given an array of integers your solution should find the smallest integer.
@@ -237,3 +237,27 @@ Return the number (count) of vowels in the given string.
 We will consider a, e, i, o, u as vowels for this Kata (but not y).
 
 The input string will only consist of lower case letters and/or spaces.
+
+Lesson 6 tasks @ CodeWars: 
+https://www.codewars.com/collections/lesson-6-challenges-number-fullstackroadmap
+==================================================================
+
+## L6.T01 List Filtering
+
+## L6.T02 Regex validate PIN code
+
+## L6.T03 Alternate capitalization
+
+## L6.T04 Format a string of names like 'Bart, Lisa & Maggie'
+
+## L6.T05 Persistent Bugger
+
+## L6.T06 Take a Ten Minutes Walk
+
+## L6.T07 Array.diff
+
+## L6.T08 Form The Largest (retired)
+
+## L6.T09 Regex count lowercase letters
+
+## L6.T10 Is the date today
